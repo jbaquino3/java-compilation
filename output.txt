@@ -1,0 +1,4 @@
+
+Thu Dec 01 00:00:00 PST 2022: tripNo1 tripNo4 tripNo6
+Fri Dec 02 00:00:00 PST 2022: tripNo3 tripNo7
+Sat Dec 03 00:00:00 PST 2022: tripNo2 tripNo5
